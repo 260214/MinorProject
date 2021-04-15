@@ -4,7 +4,7 @@
 
 Build | Code Quality | Unity | Git Inspector
 |---------|------------|-----------|----------------
-[![C/C++ CI]|[![Static Check] [![Code Quality - Static Code - Cppcheck](https://github.com/260214/MinorProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/260214/MinorProject/actions/workflows/cppcheck.yml)  [![Valgrind-check] [![Codacy Badge]]()  | [![Unity-Check](https://github.com/260214/MinorProject/actions/workflows/unityy.yml/badge.svg)](https://github.com/260214/MinorProject/actions/workflows/unityy.yml) | [![git inspector CI][![Contribution Check - Git Inspector](https://github.com/260214/MinorProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/260214/MinorProject/actions/workflows/gitinspector.yml)
+[![C/C++ CI]|[![Static Check] [![Code Quality - Static Code - Cppcheck](https://github.com/260214/MinorProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/260214/MinorProject/actions/workflows/cppcheck.yml)  [![Valgrind-check] [![Codacy Badge]]()  | [![Unity-Check](https://github.com/260214/MinorProject/actions/workflows/unityy.yml/badge.svg)](https://github.com/260214/MinorProject/actions/workflows/unityy.yml) |[![git inspector CI](https://github.com/260214/MinorProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/260214/MinorProject/actions/workflows/gitinspector.yml)
 
 
 ## Folder Structure
