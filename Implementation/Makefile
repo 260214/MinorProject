@@ -4,8 +4,9 @@
 #<TAB>Command
 
 PROJECT_NAME =project.exe
-SRC = calculator.c\
-src\calculatorDefinition.c
+
+SRC = calculator.c src/calculatorDefinition.c
+
 
 INC= inc
 
