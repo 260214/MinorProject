@@ -17,7 +17,7 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-SF Id. |  Name   |     Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+SF Id. |  Name   |     Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass|
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `260214` | Sayani Ghosh  |   |     |    |  |    
    
