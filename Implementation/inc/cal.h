@@ -15,8 +15,8 @@
  #define __CAL_H_
 
 
-int i,ta,nm,sum4,sub5;
-double a,b,c,d,e,f,g,h,k,l,m,o,p,q,s,xt,xn,xs,ab,le,br,ra,lh,bh,an,bt,hb,bz,hz,pq,rd,po,re;
+int i,ta,nm,sum4,sub5,m;
+double a,b,c,d,e,f,g,h,k,l,o,p,q,s,xt,xn,xs,ab,le,br,ra,lh,bh,an,bt,hb,bz,hz,pq,rd,po,re;
 
 extern const double pi;
 int add1(int an,int bn);
