@@ -35,11 +35,18 @@ Also, all of these types of problems are usually longer expressions that involve
 
 # 4W&#39;s and 1&#39;H
 
-##* Who – Any student, developer or an enterprise organization those who are looking for an open-source scientific calculator can use.
-##* What – During many large-scale projects the presence of an independent scalable scientific calculator stays missing which might create an issue.
-##* When – Anytime when a free open-source calculator is needed readymade.
-##* Where – This problem happens with almost every developer beginning their first open-source project.
-##* How –  An user needs to run the c file in a c ompiler environment and then finally execute the code after which he has to chose the function he is looking for and feed the arguments to get the result.
+## Who :–
+Any student, developer or an enterprise organization those who are looking for an open-source scientific calculator can use.
+## What :– 
+During many large-scale projects the presence of an independent scalable scientific calculator stays missing which might create an issue.
+## When :– 
+Anytime when a free open-source calculator is needed readymade.
+## Where :– 
+This problem happens with almost every developer beginning their first open-source project.
+## How :–  
+An user needs to run the c file in a c ompiler environment and then finally execute the code after which he has to chose the function he is looking for and feed the arguments to get the result.
+
+
 # Detail requirements
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
