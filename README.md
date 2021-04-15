@@ -36,4 +36,5 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 | No. | Challenge | Solution
 |-----|-----------|--------
 
-|1| Had to build more efficient test cases | Resolved it by using commands in the terminal | In process |
+|1| Had to build more efficient test cases  | In process |
+|2| Had faced a lot of errors while running the code in the VSC software and couldn't clone it directly with GitHub | Resolved it by using commands in the terminal |
