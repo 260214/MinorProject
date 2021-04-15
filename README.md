@@ -4,6 +4,7 @@
 
 Build | Code Quality | Unity | Git Inspector
 |---------|------------|-----------|----------------
+[![C/C++ CI]|[![Static Check] [![Valgrind-check] [![Codacy Badge]]()  | [![Unity-Check]([![Unit Testing - Unity](https://github.com/260214/MinorProject/actions/workflows/unityy.yml/badge.svg)](https://github.com/260214/MinorProject/actions/workflows/unityy.yml)) | [![git inspector CI]
 
 
 ## Folder Structure
