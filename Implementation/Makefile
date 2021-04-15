@@ -9,7 +9,7 @@ src\calculatorDefinition.c
 
 INC= inc
 
-$(PROJECT_NAME): $(SRC)
+all: $(SRC)
 	gcc -I $(INC) $(SRC) -o project.exe
 
 run :project.exe
