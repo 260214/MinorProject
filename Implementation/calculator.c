@@ -29,7 +29,7 @@ int main()
 
         case 4:
         scanf("%lf %lf",&g,&h);
-        printf("%lf",div(g,h));
+        printf("%lf",division(g,h));
         break;
 
         case 5:
