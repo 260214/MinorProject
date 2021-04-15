@@ -21,4 +21,4 @@ clean:
 	del/q *.exe
 
 
-# gcc main.c calculator.c 
+# gcc main.c calculator.c  all.exe
