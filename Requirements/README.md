@@ -19,12 +19,6 @@ Also, all of these types of problems are usually longer expressions that involve
 
 
 
-## Cost and Features with Time 
-| Time | Feature | Cost |
-| ----- | ----- | ----- |
-
-
-
 
 
 
