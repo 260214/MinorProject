@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Calculator
+PROJECT_NAME = calculator
 
 # Output directory
 BUILD = build
@@ -10,7 +10,7 @@ src/calculator.c
 
 # All test source files
 TEST_SRC = src/calculator.c\
-test/test_calculator_operations.c\
+test/Test_.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
@@ -28,7 +28,7 @@ INCLUDE_LIBS =
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
 
 # Document files
-DOCUMENTATION_OUTPUT = documentation/html
+DOCUMENTATION_OUTPUT = Doxygen/html
 
 # Default target built
 $(PROJECT_NAME):all
